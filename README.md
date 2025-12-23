@@ -6,7 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhzawad29&label=Profile%20views&color=0e75b6&style=flat" alt="hhzawad29" /> </p>
 
 
-- 📫 How to reach me **habibulhasan74@gmail.com** 
+## 📬 Connect with Me  
+<p align="center">
+  <a href="mailto:habibulhasa74.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/habibul-hasan-zawad-7260a8102//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/hhzawad29"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
@@ -14,11 +19,6 @@
 - 💻 Proficient in **R, C, MySQL, Python (In progress!)** | Enthusiastic about **Model development and deployment**
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/habibul hasan zawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habibul hasan zawad" height="30" width="30" /></a>
-</p>
 
 <!-- Skills -->
 ## 🚀 Tech Stack  
@@ -29,9 +29,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhzawad29&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhzawad29&theme=vue-dark&hide_border=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhzawad29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=hhzawad29&theme=radical&show_icons=true&hide_border=false&count_private=true" width="37%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhzawad29&theme=radical&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhzawad29&theme=radical&show_icons=true&hide_border=false&layout=compact" width="40%" />
 </p>
 
