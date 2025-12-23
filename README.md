@@ -28,9 +28,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhzawad29&theme=radical&show_icons=true&hide_border=false&count_private=true" width="37%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhzawad29&theme=radical&hide_border=false" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhzawad29&theme=radical&show_icons=true&hide_border=false&layout=compact" width="40%" />
-</p>
-
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhzawad29&theme=dracula&hide_border=false" width="43.5%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hhzawad29&theme=dracula&hide_border=false" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhzawad29&theme=dracula&hide_border=false&layout=compact" width="45%" />
+</div>
