@@ -15,7 +15,7 @@
 
 <!-- About Me -->
 ## 👨‍💻 About Me
-- 🎓 **Applied Statistics and Data Science undergrad** | 🚀 Passionate about **Quantative Ecnomics and Econometrics**
+- 🎓 **Applied Statistics and Data Science undergrad** | 🚀 Passionate about **Quantative Economics and Econometrics**
 - 💻 Proficient in **R, C, MySQL, Python (In progress!)** | Enthusiastic about **Model development and deployment**
 
 ---
