@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibul Hasan Zawad</h1>
-<h3 align="center">an Applied Statistics and Data Science Undergrad @ ISRT, University of Dhaka</h3>
+<h3 align="center">an Applied Statistics and Data Science Junior Undergrad @ ISRT, University of Dhaka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhzawad29&label=Profile%20views&color=0e75b6&style=flat" alt="hhzawad29" /> </p>
 
